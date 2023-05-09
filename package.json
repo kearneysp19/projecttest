@@ -2,7 +2,10 @@
   "name": "projecttest",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "serveios": "nx serve mitradetest",
+    "runios": "nx run-ios mitradetest"
+  },
   "private": true,
   "dependencies": {
     "react": "18.2.0",
