@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {
     "serveios": "nx serve mitradetest",
-    "runios": "nx run-ios mitradetest"
+    "runios": "nx run-ios mitradetest",
+    "test": "nx test mitradetest",
+    "lint": "nx lint mitradetest"
   },
   "private": true,
   "dependencies": {
